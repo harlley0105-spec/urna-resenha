@@ -7,7 +7,7 @@ window.URNA = {
     foto: "harlley.jpg" },
   { num: "31", nome: "Idiota", partido: "Partido do Atraso Sincero", sigla: "PAS", cor: "#7a7f8a",
     slogan: "Eu aviso quando sair.", msg: "Obrigado pelo voto! A posse é às 14h. (Eu chego às 16h.)",
-    foto: "Idiota.jpg" },
+    foto: "idiota.jpg" },
   { num: "64", nome: "Escroto", partido: "Partido do Deixa Pra Lá", sigla: "PDL", cor: "#8a7a6a",
     slogan: "Depois eu vejo isso.", msg: "Obrigado pelo voto! Vi. Respondo depois.",
     foto: "escroto.jpg" }
